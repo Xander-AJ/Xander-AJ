@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is John-Alexander Kamau.<br>I'm a DevOps Engineer and a Software Engineer</p>
+<p align="left">My name is John Alexander Kamau.<br>I'm a DevOps Engineer and a Software Engineer</p>
 
 ###
 
