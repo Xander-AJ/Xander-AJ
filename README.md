@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ I have a background in Digital Media Design and Communications<br>📚 I'm currently learning software development<br>🎯 Goals: I'm working towards being a full stack developer <br>🎲 Fun fact: I love anime and reading books</p>
+<p align="left">✨ I have a background in Digital Media Design and Communications<br>📚 I'm currently learning cybersecurity and will get into DevSecOps down the line<br>🎯 Goals: I'm working towards being a full stack developer <br>🎲 Fun fact: I love anime and reading books</p>
 
 ###
 
