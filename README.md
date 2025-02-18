@@ -11,6 +11,16 @@
 
 ###
 
+- 🌱 I’m currently learning **PHP, AI, and CyberSecurity**
+
+- 💬 Ask me about **Anything tech, digital media and design**
+
+- 📫 How to reach me **xander.kamau7@gmail.com**
+
+- ⚡ Fun fact **I am a digital media designer/journalist turned developer**
+
+###
+
 <img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif?cid=790b7611a9ynv52eg5e5rg6gokamwirc1o3qkbxr9wfrwl59&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -101,3 +111,19 @@
 
 ###
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/will-wagura/will-wagura/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/will-wagura/will-wagura/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/will-wagura/will-wagura/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+###
