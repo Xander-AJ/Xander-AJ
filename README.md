@@ -33,11 +33,10 @@
 <h3 align="left">Languages and Tools</h3>
   <img src="https://skillicons.dev/icons?i=react,mui,html,css,tailwind,nodejs,python,javascript,typescript,express,mongodb,sqlite,flask,django,git,postgres,jenkins,docker,ansible" />
 
+
 <h3 align="left">Stats</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xander-aj&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="xander-aj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xander-aj&count_private=true&theme=react&border_radius=10"" alt="xander-aj" /></p>
 
 ###
 
