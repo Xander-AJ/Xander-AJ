@@ -1,4 +1,4 @@
-#<h2 align="left">Hey 😎<br>I'm John Alexander Kamau<br>Software Developer | DevOps Engineer | Digital Media Designer</h2>
+# <h2 align="left">Hey 😎<br>I'm John Alexander Kamau<br>Software Developer | DevOps Engineer | Digital Media Designer</h2>
 
 <div align="right">
     <img src="./README.png" alt="John Alexander Kamau"  />
