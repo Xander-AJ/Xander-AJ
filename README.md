@@ -36,7 +36,7 @@
 
 <h3 align="left">Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xander-aj&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="xander-aj" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=xander-aj&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="xander-aj" /></p>
 
 ###
 
