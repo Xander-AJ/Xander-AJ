@@ -101,8 +101,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Xander-AJ/Xander-AJ/output/snake.svg" alt="Snake animation" />
-
-###
