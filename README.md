@@ -31,7 +31,7 @@
 </p>
 
 <h3 align="left">Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=react,mui,html,css,tailwind,nodejs,python,javascript,typescript,express,mongodb,sqlite,flask,django,git,postgres,jenkins,docker,ansible" />
+  <img src="https://skillicons.dev/icons?i=react,mui,shadcn,nextjs,html,css,tailwind,nodejs,python,javascript,typescript,express,mongodb,sqlite,flask,django,git,postgres,jenkins,docker,ansible" />
 
 
 <h3 align="left">Stats</h3>
