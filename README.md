@@ -11,7 +11,7 @@
 
 ###
 
-- 🌱 I’m currently learning **PHP, AI, and CyberSecurity**
+- 🌱 I’m currently learning **PHP, AI, and DevSecOps**
 
 - 💬 Ask me about **Anything tech, digital media and design**
 
