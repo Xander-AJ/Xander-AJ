@@ -37,9 +37,9 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Teleios Connect** | Church mobile app — live streaming, sermon archives, community notices | Flutter · Firebase |
+| **Teleios Connect** | Church mobile app — live streaming, sermon archives, community notices | React Native · Expo · Firebase |
 | **Tabibu Health** | AI health platform with triple-source search & emergency detection | Python · LangGraph · Next.js |
-| **Field Sales Tools** | Cross-platform retail & field ops tools used across multiple markets | React Native · Node.js |
+| **Field Sales Tools** | Cross-platform retail & field ops tools used across multiple markets | Flutter · Node.js |
 | **AI Support Agent** | Customer support automation — improved response times by 25% | LangGraph · FastAPI |
 
 ---
