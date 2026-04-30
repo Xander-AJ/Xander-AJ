@@ -47,11 +47,11 @@
 ### My background
 
 ```
-Software Engineering  ████████████  
+Software Engineering  ███████████░ 
 AI / ML Development   ████████░░░░  
-Graphic Design        ███████░░░░░  
-Media Production      ██████░░░░░░  
-Communications / PR   █████████░░░  
+Graphic Design        █████████░░░  
+Media Production      ██████████░░  
+Communications / PR   ███████████░  
 ```
 
 ---
