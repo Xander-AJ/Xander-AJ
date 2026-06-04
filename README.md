@@ -19,7 +19,7 @@
 
 ### What I'm about
 
-- 🛠️ Founder of **[Norah Labs](https://norahlabs.co)** — building digital experiences with a human heart
+- 🛠️ Founder of **[Norah Labs](https://norahlabs.com)** — building digital experiences with a human heart
 - 📱 Built a **church mobile app** used every Sunday by 200+ members, some watching from outside Kenya
 - 🏥 Building **Tabibu Health** — an AI health intelligence platform designed for Africa
 - 🎓 Studying **Public Relations** at Daystar University — because telling a story matters as much as building one
