@@ -1,94 +1,71 @@
-# Hi, I'm John Alexander — A Creative Builder 👋
+# John Alexander Kamau — Senior AI & Full-Stack Engineer
 
+I design and ship production **LLM, RAG and agentic systems**, and the **Python / TypeScript backends and React / React Native apps** around them. Architecture through deployment, usually as the sole or lead engineer.
 
-> *"I make things that help people connect, learn, and experience their world better.*
-
-> *Tech is my tool. People are my purpose."*
-
-
-- I'm not primarily a developer — though I build software.
-
-- Not primarily a designer — though I design.
-
-- Not primarily a communicator — though I communicate.
-
-
-> *I'm someone who sits at the intersection of all three, and uses that to make things that actually serve people.*
+📍 Nairobi, Kenya · Open to senior roles, remote or relocation · Founder, [Norah Labs](https://norahlabs.com)
 
 ---
 
-### What I'm about
+### Results
 
-- 🛠️ Founder of **[Norah Labs](https://norahlabs.com)** — building digital experiences with a human heart
-- 📱 Built a **church mobile app** used every Sunday by 200+ members, some watching from outside Kenya
-- 🏥 Building **Tabibu Health** — an AI health intelligence platform designed for Africa
-- 🎓 Studying **Public Relations** at Daystar University — because telling a story matters as much as building one
-- 📍 Based in **Nairobi, Kenya** | Open to remote collaboration globally
-
----
-
-### Currently building
-
-`AI tools` · `Community apps` · `Digital media experiences`
+| | |
+|---|---|
+| **−25%** support response time | LLM support agent, built and deployed solo (Norah Labs) |
+| **80+ countries** | Integration layer for the TradeEdge field-sales platform |
+| **200+ weekly users, 7 countries** | Teleios Connect, a church mobile app |
+| **+15% customer retention** | iVend POS integration |
 
 ---
 
-### Things I've shipped
+### What I build
+
+**AI systems**
+Multi-tool retrieval orchestrated in LangGraph, input/output guardrails, hallucination detection, emergency-intent routing, evals, structured LLM outputs with retries, MCP connectors against live platforms.
+
+**Backend & integration**
+Multi-tenant services in FastAPI + PostgreSQL: fair scheduling, idempotent handlers, exponential backoff, migrations as the schema of record. REST contracts, webhooks, OAuth, async workers.
+
+**Web & mobile**
+React / Next.js and offline-first React Native and Flutter apps, deployed and used in production.
+
+---
+
+### Selected work
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Teleios Connect** | Church mobile app — live streaming, sermon archives, community notices | React Native · Expo · Firebase |
-| **Tabibu Health** | AI health platform with triple-source search & emergency detection | Python · LangGraph · Next.js |
-| **Field Sales Tools** | Cross-platform retail & field ops tools used across multiple markets | Flutter · Node.js |
-| **AI Support Agent** | Customer support automation — improved response times by 25% | LangGraph · FastAPI |
+| **Tabibu Health AI** *(lead & architect)* | Health-intelligence platform. One workflow searches a medical knowledge base, the live web and product data, with dual guardrails, emergency detection and cited answers from clinical sources. | Python · LangGraph · Qdrant · React |
+| **TradeEdge** *(integration layer)* | Field-sales and retail-execution platform in 80+ countries. API contracts, webhooks and data mapping to customers' CRM/ERP; offline-first mobile. | React Native · Flutter · Python |
+| **[rag-guardrails-starter](https://github.com/Xander-AJ/rag-guardrails-starter)** | Open-source RAG infrastructure with guardrails, hallucination detection and an evaluation harness. Provider-agnostic. | Python · LangChain · Qdrant |
+| **[task-processing-service](https://github.com/Xander-AJ/task-processing-service)** | Multi-tenant task queue: round-robin fairness, at-least-once delivery, idempotent handlers, design deep-dives in the README. | FastAPI · PostgreSQL |
+| **Production LLM support agent** | Spec to production as sole owner: structured parsing, retries, error handling. | LangGraph · OpenAI API |
+
+Case studies and more: **[creative-operator.vercel.app](https://creative-operator.vercel.app/)**
 
 ---
 
-### My background
+### Stack
 
-```
-Software Engineering  ███████████░ 
-AI / ML Development   ████████░░░░  
-Graphic Design        █████████░░░  
-Media Production      ██████████░░  
-Communications / PR   ███████████░  
-```
-
----
-
-### Tools I build with
-
-<img src="https://skillicons.dev/icons?i=flutter,react,supabase,nextjs,typescript,javascript,python,nodejs,firebase,docker,git,figma,tailwind" />
-
----
-
-### Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xander-aj&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xander-AJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&border_radius=10" height="150" alt="Top languages" />
-</div>
+**Languages & frameworks:** Python · TypeScript/JavaScript · React · Next.js · React Native · Flutter · FastAPI · Flask · Django
+**AI / ML:** LangChain · LangGraph · RAG · guardrails & evals · OpenAI & Claude APIs · vector DBs · MCP
+**Data & infra:** PostgreSQL · Supabase · MongoDB · SQLite · Firebase · Qdrant · Docker · AWS · CI/CD
 
 ---
 
 ### Writing
 
-I write about building things that matter — tech, design, community, and the spaces in between.
-
-→ **[I've Been Framing Myself the Wrong Way — And It's Why I Felt Stuck](https://medium.com/@xander-aj/ive-been-framing-myself-the-wrong-way-and-it-s-why-i-felt-stuck-d89711419258)**
-
-→ **[What Makes a Health AI Actually Built for Africa?](https://medium.com/@xander-aj/what-makes-a-health-ai-actually-built-for-africa-e929822ca009)**
-
-→ **[More on Medium →](https://medium.com/@xander-aj)**
+→ [What Makes a Health AI Actually Built for Africa?](https://medium.com/@xander-aj/what-makes-a-health-ai-actually-built-for-africa-e929822ca009)
+→ [More on Medium](https://medium.com/@xander-aj)
 
 ---
 
-### Let's connect
+### Get in touch
 
-If you're building something for people — not just for metrics — I'd love to talk.
+Best fit: teams shipping LLM / RAG / agentic features into production, or product teams that need someone to own the backend, the integration layer and the mobile app.
+
+📧 [john.alexander@norahlabs.com](mailto:john.alexander@norahlabs.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Alexander%20Kamau-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-alexander-kamau-301821a5/)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-creative--operator.vercel.app-black?style=flat&logo=vercel)](https://creative-operator.vercel.app/)
 
-[![Medium](https://img.shields.io/badge/Medium-@xander--aj-black?style=flat&logo=medium)](https://medium.com/@xander-aj)
+<sub>Also: a design and video background (multi-camera livestreams, brand films), which is why my docs and UIs tend to be clear.</sub>
