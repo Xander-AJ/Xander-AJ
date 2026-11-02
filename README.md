@@ -47,7 +47,7 @@ Case studies and more: **[creative-operator.vercel.app](https://creative-operato
 <!-- OSS:START -->
 ### Open source
 
-I contribute fixes, features, docs and reviews to open-source projects. My workflow is AI-augmented and built by me: every fix starts from a failing test, stays minimal, and follows each project's contribution and AI policies.
+I contribute fixes, features, docs and reviews to open-source projects. My workflow is AI-augmented and built by me ([oss-agent-pipeline](https://github.com/Xander-AJ/oss-agent-pipeline)): every fix starts from a failing test, stays minimal, and follows each project's contribution and AI policies.
 
 **Merged**
 
