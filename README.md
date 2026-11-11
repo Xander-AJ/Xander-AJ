@@ -53,6 +53,10 @@ I contribute fixes, features, docs and reviews to open-source projects. My workf
 
 | Project | Contribution |
 |---|---|
+| besu-eth/besu ⭐ 1.9k | [#11845](https://github.com/besu-eth/besu/pull/11845) `debug_standardTraceBlockToFile` / `BadBlockToFile` now honor `enableReturnData: false` (was hard-coded true); default output unchanged. |
+| besu-eth/besu ⭐ 1.9k | [#11843](https://github.com/besu-eth/besu/pull/11843) `miner_getExtraData` no longer drops leading zero bytes, so it round-trips with `miner_setExtraData`. |
+| besu-eth/besu ⭐ 1.9k | [#11844](https://github.com/besu-eth/besu/pull/11844) `admin_logsRemoveCache` resolves `safe`/`finalized` tags instead of treating them as chain head. |
+| rust-lang/rust-analyzer ⭐ 17k | [#23598](https://github.com/rust-lang/rust-analyzer/pull/23598) VS Code problem matcher now parses rustc's unicode diagnostic locations (`╭▸ ─▸ ├▸`), so errors link to files again. |
 | quarto-dev/quarto-cli ⭐ 6.2k | [#15253](https://github.com/quarto-dev/quarto-cli/pull/15253) Made the website announcement dismiss control a real keyboard-accessible button, with browser tests. |
 | ratatui/ratatui ⭐ 23k | [#2887](https://github.com/ratatui/ratatui/pull/2887) Added tests guarding against double-counting halfwidth katakana sound marks. |
 | dessalines/thumb-key ⭐ 1.5k | [#2062](https://github.com/dessalines/thumb-key/pull/2062) Let users bind "hide letters" to any key in custom layouts. |
@@ -62,7 +66,7 @@ I contribute fixes, features, docs and reviews to open-source projects. My workf
 | authlib/authlib ⭐ 5.4k | [#960](https://github.com/authlib/authlib/pull/960) Documented `leeway` and other OAuth2Session options via `client_kwargs`. |
 | morluto/rea | [#4044](https://github.com/morluto/rea/pull/4044) → landed as [d5fc7e6eb](https://github.com/morluto/rea/commit/d5fc7e6eb) Fixed the rizin integration dropping trailing whitespace before the completion marker. |
 
-**In review:** [besu #11629](https://github.com/besu-eth/besu/pull/11629) · [besu #11843](https://github.com/besu-eth/besu/pull/11843) · [besu #11844](https://github.com/besu-eth/besu/pull/11844) · [besu #11845](https://github.com/besu-eth/besu/pull/11845) · [qwen-code #14373](https://github.com/QwenLM/qwen-code/pull/14373) · [paradedb #7120](https://github.com/paradedb/paradedb/pull/7120) · [rust-analyzer #23598](https://github.com/rust-lang/rust-analyzer/pull/23598)
+**In review:** [besu #11629](https://github.com/besu-eth/besu/pull/11629) · [qwen-code #14373](https://github.com/QwenLM/qwen-code/pull/14373) · [paradedb #7120](https://github.com/paradedb/paradedb/pull/7120)
 
 <sub>Updated automatically from my contribution log.</sub>
 <!-- OSS:END -->
