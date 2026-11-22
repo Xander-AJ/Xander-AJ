@@ -53,6 +53,7 @@ I contribute fixes, features, docs and reviews to open-source projects. My workf
 
 | Project | Contribution |
 |---|---|
+| paradedb/paradedb ⭐ 9.6k | [#7120](https://github.com/paradedb/paradedb/pull/7120) Postgres full-text search: a constant output column next to an aggregate (`SELECT 'x', pdb.agg(...)`) no longer breaks the Tantivy AggregateScan in EXPLAIN or execution; row-independent target expressions now pass through. |
 | besu-eth/besu ⭐ 1.9k | [#11845](https://github.com/besu-eth/besu/pull/11845) `debug_standardTraceBlockToFile` / `BadBlockToFile` now honor `enableReturnData: false` (was hard-coded true); default output unchanged. |
 | besu-eth/besu ⭐ 1.9k | [#11843](https://github.com/besu-eth/besu/pull/11843) `miner_getExtraData` no longer drops leading zero bytes, so it round-trips with `miner_setExtraData`. |
 | besu-eth/besu ⭐ 1.9k | [#11844](https://github.com/besu-eth/besu/pull/11844) `admin_logsRemoveCache` resolves `safe`/`finalized` tags instead of treating them as chain head. |
@@ -66,7 +67,7 @@ I contribute fixes, features, docs and reviews to open-source projects. My workf
 | authlib/authlib ⭐ 5.4k | [#960](https://github.com/authlib/authlib/pull/960) Documented `leeway` and other OAuth2Session options via `client_kwargs`. |
 | morluto/rea | [#4044](https://github.com/morluto/rea/pull/4044) → landed as [d5fc7e6eb](https://github.com/morluto/rea/commit/d5fc7e6eb) Fixed the rizin integration dropping trailing whitespace before the completion marker. |
 
-**In review:** [besu #11629](https://github.com/besu-eth/besu/pull/11629) · [qwen-code #14373](https://github.com/QwenLM/qwen-code/pull/14373) · [paradedb #7120](https://github.com/paradedb/paradedb/pull/7120)
+**In review:** [besu #11629](https://github.com/besu-eth/besu/pull/11629) · [qwen-code #14373](https://github.com/QwenLM/qwen-code/pull/14373)
 
 <sub>Updated automatically from my contribution log.</sub>
 <!-- OSS:END -->
