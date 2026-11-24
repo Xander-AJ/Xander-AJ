@@ -53,6 +53,9 @@ I contribute fixes, features, docs and reviews to open-source projects. My workf
 
 | Project | Contribution |
 |---|---|
+| besu-eth/besu ⭐ 1.9k | [#11629](https://github.com/besu-eth/besu/pull/11629) `eth_call`, `eth_estimateGas`, `eth_createAccessList`, `trace_call` and `debug_traceCall` now reject a 4th parameter and `blockOverrides` with `-32602` and a readable message, instead of silently answering for the unmodified block. |
+| driceroland/Search ⭐ 4k | [#1364](https://github.com/driceroland/Search/pull/1364) → landed as [edf4e561](https://github.com/driceroland/Search/commit/edf4e561) macOS browser: the Downloads card now anchors to the visible Downloads button; a hidden duplicate of the button was stealing the anchor. |
+| ratatui/ratatui ⭐ 23k | [#2913](https://github.com/ratatui/ratatui/pull/2913) Removed APIs deprecated in 0.26.x ahead of the next breaking release, with BREAKING-CHANGES notes. |
 | paradedb/paradedb ⭐ 9.6k | [#7120](https://github.com/paradedb/paradedb/pull/7120) Postgres full-text search: a constant output column next to an aggregate (`SELECT 'x', pdb.agg(...)`) no longer breaks the Tantivy AggregateScan in EXPLAIN or execution; row-independent target expressions now pass through. |
 | besu-eth/besu ⭐ 1.9k | [#11845](https://github.com/besu-eth/besu/pull/11845) `debug_standardTraceBlockToFile` / `BadBlockToFile` now honor `enableReturnData: false` (was hard-coded true); default output unchanged. |
 | besu-eth/besu ⭐ 1.9k | [#11843](https://github.com/besu-eth/besu/pull/11843) `miner_getExtraData` no longer drops leading zero bytes, so it round-trips with `miner_setExtraData`. |
@@ -67,7 +70,7 @@ I contribute fixes, features, docs and reviews to open-source projects. My workf
 | authlib/authlib ⭐ 5.4k | [#960](https://github.com/authlib/authlib/pull/960) Documented `leeway` and other OAuth2Session options via `client_kwargs`. |
 | morluto/rea | [#4044](https://github.com/morluto/rea/pull/4044) → landed as [d5fc7e6eb](https://github.com/morluto/rea/commit/d5fc7e6eb) Fixed the rizin integration dropping trailing whitespace before the completion marker. |
 
-**In review:** [besu #11629](https://github.com/besu-eth/besu/pull/11629) · [qwen-code #14373](https://github.com/QwenLM/qwen-code/pull/14373)
+**In review:** [qwen-code #14373](https://github.com/QwenLM/qwen-code/pull/14373) · [qwen-code #17827](https://github.com/QwenLM/qwen-code/pull/17827) · [zerobrew #501](https://github.com/zerobrewhq/zerobrew/pull/501)
 
 <sub>Updated automatically from my contribution log.</sub>
 <!-- OSS:END -->
